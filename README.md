@@ -1,4 +1,4 @@
-**Jenna Shinn** 
+**Jenna Shinn** <br>
 **Blue Jays Analyst Questionnaire**
 ___
 1.  Predict the chance of a pitch being put in play. Please use this model to predict the chance of each pitch in the “deploy.csv” file being put in play and return a csv with your predictions.  
